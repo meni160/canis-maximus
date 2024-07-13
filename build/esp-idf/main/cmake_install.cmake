@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/lucas/Desktop/canis_maximus/main
+# Install script for directory: C:/Users/lucas/canis-maximus-1/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

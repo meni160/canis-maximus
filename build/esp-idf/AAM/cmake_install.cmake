@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/lucas/Desktop/canis_maximus/components/AAM
+# Install script for directory: C:/Users/lucas/canis-maximus-1/components/AAM
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
